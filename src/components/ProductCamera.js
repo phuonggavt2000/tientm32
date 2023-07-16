@@ -21,8 +21,8 @@ import NextBanner from "../components/NextBanner";
 function ProductCamera() {
     const nameProducts = ["IQ 2S", "IQ 2", "IQ 3", "Camera Play"];
     const priceCameras = [
-        { main: "1.000.000đ", sub: "1.400.000đ" },
-        { main: "900.000đ", sub: "1.300.000đ" },
+        { main: "1.100.000đ", sub: "1.400.000đ" },
+        { main: "1.000.000đ", sub: "1.300.000đ" },
         { main: "1.890.000đ", sub: "2.500.000đ" },
         { main: "1.600.000đ", sub: "2.130.000đ" },
     ];
